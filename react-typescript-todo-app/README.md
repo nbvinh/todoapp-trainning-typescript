@@ -4,14 +4,7 @@
 
 This app was created during the React TypeScript Todo App tutorial (link forthcoming). I recommend following along with the tutorial video, but feel free to clone this app directly and explore the code!
 
-## Clone and Run the App
-
-Clone the app:
-
-```bash
-git clone https://github.com/nas5w/react-typescript-todo-app.git
-cd react-typescript-todo-app
-```
+## Run the App
 
 Install dependencies:
 
