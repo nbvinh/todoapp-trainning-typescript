@@ -5,7 +5,7 @@ import { AddTodoForm } from "./AddTodoForm";
 
 const App: React.FC = () => {
   const [todos, setTodos] = useState<Array<Todo>>(initialTodos);
-
+  console.log('test')
   const toggleComplete: ToggleComplete = selectedTodo => {
     const updatedTodos = todos.map(todo => {
       if (todo === selectedTodo) {
